@@ -7,12 +7,12 @@
 <p>Ele roda comandos, abre e edita arquivos e mostra na conversa tudo o que fez.<br>
 Você pede, confere e fica com o crédito.</p>
 
-<a href="https://github.com/edevbr/omplice/releases/latest"><img src="https://img.shields.io/github/v/release/edevbr/omplice?style=flat-square&label=vers%C3%A3o&color=3B74D4" alt="Versão mais recente"></a>&nbsp;<a href="https://github.com/edevbr/omplice/releases"><img src="https://img.shields.io/github/downloads/edevbr/omplice/total?style=flat-square&label=downloads&color=16181D" alt="Downloads no GitHub"></a>
+<a href="https://github.com/edevbr/omplice/releases/latest"><img src="https://img.shields.io/github/v/release/edevbr/omplice?style=flat-square&label=vers%C3%A3o&color=3B74D4&labelColor=16181D" alt="Versão mais recente"></a>&nbsp;<a href="https://github.com/edevbr/omplice/releases"><img src="https://img.shields.io/github/downloads/edevbr/omplice/total?style=flat-square&label=downloads&color=3B74D4&labelColor=16181D" alt="Downloads no GitHub"></a>
 
 <br>
 
-<a href="https://github.com/edevbr/omplice/releases/latest"><img src="https://img.shields.io/badge/Baixar_para-Windows-3B74D4?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTAgMy40NSA5Ljc1IDIuMXY5LjQySDB6bTEwLjk1LTEuNUwyNCAwdjExLjRIMTAuOTV6TTAgMTIuNmg5Ljc1djkuNDVMMCAyMC43em0xMC45NSAwSDI0VjI0bC0xMy4wNS0xLjh6Ii8%2BPC9zdmc%2B" alt="Baixar para Windows" height="38"></a>&nbsp;&nbsp;
-<a href="https://github.com/edevbr/omplice/releases/latest"><img src="https://img.shields.io/badge/Baixar_para-Linux-16181D?style=for-the-badge&logo=linux&logoColor=white" alt="Baixar para Linux" height="38"></a>
+<a href="https://github.com/edevbr/omplice/releases/latest"><img src="https://img.shields.io/badge/-Baixar_para_Windows-3B74D4?style=for-the-badge&labelColor=3B74D4&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTAgMy40NSA5Ljc1IDIuMXY5LjQySDB6bTEwLjk1LTEuNUwyNCAwdjExLjRIMTAuOTV6TTAgMTIuNmg5Ljc1djkuNDVMMCAyMC43em0xMC45NSAwSDI0VjI0bC0xMy4wNS0xLjh6Ii8%2BPC9zdmc%2B" alt="Baixar para Windows" height="38"></a>&nbsp;&nbsp;
+<a href="https://github.com/edevbr/omplice/releases/latest"><img src="https://img.shields.io/badge/-Baixar_para_Linux-16181D?style=for-the-badge&labelColor=16181D&logo=linux&logoColor=white" alt="Baixar para Linux" height="38"></a>
 
 <sub>Windows 10 e 11 &nbsp;·&nbsp; Linux 64 bits &nbsp;·&nbsp; Atualização automática e assinada</sub>
 
