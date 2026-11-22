@@ -12,9 +12,10 @@ Você pede, confere e fica com o crédito.</p>
 <br>
 
 <a href="https://github.com/edevbr/omplice/releases/latest"><img src="https://img.shields.io/badge/-Baixar_para_Windows-3B74D4?style=for-the-badge&labelColor=3B74D4&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTAgMy40NSA5Ljc1IDIuMXY5LjQySDB6bTEwLjk1LTEuNUwyNCAwdjExLjRIMTAuOTV6TTAgMTIuNmg5Ljc1djkuNDVMMCAyMC43em0xMC45NSAwSDI0VjI0bC0xMy4wNS0xLjh6Ii8%2BPC9zdmc%2B" alt="Baixar para Windows" height="38"></a>&nbsp;&nbsp;
-<a href="https://github.com/edevbr/omplice/releases/latest"><img src="https://img.shields.io/badge/-Baixar_para_Linux-16181D?style=for-the-badge&labelColor=16181D&logo=linux&logoColor=white" alt="Baixar para Linux" height="38"></a>
+<a href="https://github.com/edevbr/omplice/releases/latest"><img src="https://img.shields.io/badge/-Baixar_para_Linux-16181D?style=for-the-badge&labelColor=16181D&logo=linux&logoColor=white" alt="Baixar para Linux" height="38"></a>&nbsp;&nbsp;
+<a href="https://github.com/edevbr/omplice/releases/latest"><img src="https://img.shields.io/badge/-Baixar_para_Android-6EA0FF?style=for-the-badge&labelColor=6EA0FF&logo=android&logoColor=white" alt="Baixar para Android" height="38"></a>
 
-<sub>Windows 10 e 11 &nbsp;·&nbsp; Linux 64 bits &nbsp;·&nbsp; Atualização automática e assinada</sub>
+<sub>Windows 10 e 11 &nbsp;·&nbsp; Linux 64 bits &nbsp;·&nbsp; Android 8 ou mais novo &nbsp;·&nbsp; Atualização automática e assinada</sub>
 
 <br><br>
 
@@ -121,7 +122,7 @@ O app Android continua as conversas do computador. Acompanhe o trabalho, aprove 
 
 O pareamento é por QR, e o app do computador precisa estar aberto.
 
-> O app Android ainda está em testes e não é distribuído neste repositório.
+O APK sai em cada lançamento, sempre na mesma versão do app do computador.
 
 </td>
 <td width="44%" align="center">
@@ -141,12 +142,12 @@ O pareamento é por QR, e o app do computador precisa estar aberto.
 
 ## Instalação
 
-| | Windows | Linux |
-| --- | --- | --- |
-| **Sistema** | Windows 10 ou 11, 64 bits | x86_64 (64 bits) |
-| **Arquivo** | `Omplice_<versão>_x64-setup.exe` | `Omplice_<versão>_amd64.AppImage` |
-| **Tamanho** | cerca de 120 MB | cerca de 340 MB |
-| **Atualização** | automática | automática |
+| | Windows | Linux | Android |
+| --- | --- | --- | --- |
+| **Sistema** | Windows 10 ou 11, 64 bits | x86_64 (64 bits) | Android 8 ou mais novo, 64 bits (arm64) |
+| **Arquivo** | `Omplice_<versão>_x64-setup.exe` | `Omplice_<versão>_amd64.AppImage` | `Omplice-<versão>-arm64.apk` |
+| **Tamanho** | cerca de 120 MB | cerca de 340 MB | cerca de 19 MB |
+| **Atualização** | automática | automática | instale o APK novo por cima |
 
 **Windows**
 
@@ -164,6 +165,14 @@ chmod +x Omplice_*_amd64.AppImage
 ```
 
 Se ela não abrir por falta de FUSE, rode com `./Omplice_*_amd64.AppImage --appimage-extract-and-run`.
+
+**Android**
+
+1. No celular, baixe o `Omplice-<versão>-arm64.apk` no [último lançamento](https://github.com/edevbr/omplice/releases/latest).
+2. Abra o arquivo. Na primeira vez, o Android pede para permitir a instalação de apps desta origem (o navegador ou o gerenciador de arquivos): permita e volte.
+3. No computador, abra o Omplice e leia o QR de pareamento com o app do celular.
+
+Para atualizar, instale o APK da versão nova por cima: as conversas e o pareamento continuam. Use a mesma versão no celular e no computador.
 
 ## Atualizações
 
